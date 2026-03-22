@@ -1,4 +1,4 @@
-# 👋 WebbyJack Dev
+# 👋 WEBBYJACK Dev
 
 Engineering bespoke digital solutions, high-performance web platforms, and seamless integrations. 
 
